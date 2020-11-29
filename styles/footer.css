@@ -1,0 +1,47 @@
+footer {
+  padding: 0px 5px 5px 0px;
+  color: white;
+  background-color: black;
+}
+
+footer a {
+  color: white;
+}
+
+footer h4:hover {
+  background-color: #black;
+  opacity: 0.8;
+}
+
+.table {
+  padding-left: 100px;
+}
+
+.logo {
+  padding-left: 114px;
+}
+
+footer h4 {
+  padding: 15px 0px;
+  background-color: #717d7e;
+  text-align: center;
+}
+
+table,
+th,
+td {
+  border: 0px solid rgb(82, 81, 81);
+  padding: 5px;
+}
+
+td {
+  cursor: pointer;
+}
+
+td:hover {
+  color: #ff523b;
+}
+
+th {
+  text-align: left;
+}
